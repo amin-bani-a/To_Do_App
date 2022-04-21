@@ -1,0 +1,14 @@
+.body {
+  width: 50%;
+  flex: auto;
+  margin: 0 auto;
+}
+.button {
+    border: 0;
+    background-color:white;
+    color: grey;
+}
+
+.heading {
+    margin-bottom: 2px;;
+}
